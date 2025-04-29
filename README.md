@@ -4,7 +4,10 @@
 
 In today's world, fire hazards pose significant threats to life and property, making early detection and rapid response crucial. This project presents a Fire Detection and Extinguishing Robot, designed using an Arduino Uno and controlled via Bluetooth. The robot is equipped with a fire sensor to detect flames, and a water pump mechanism to extinguish small fires. Mobility is achieved through TT motors driven by an L293D motor driver, and a Bluetooth module allows wireless control through a smartphone. This system is a cost-effective and efficient solution aimed at assisting in fire emergencies, especially in areas inaccessible or dangerous for humans.
 
-![Project Image](Project_image.png)
+![Project Image](Project_image.jpeg)
+<br>
+<br>
+![Project Image](Project_image_2.jpeg)
 
 <h2>Components used</h2>
 
